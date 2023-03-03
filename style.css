@@ -1,0 +1,92 @@
+*{
+    Font-Family:Calibre, sans-serif;
+    Font-Weight:400;
+    Font-Size:22.4px;
+    Color:rgb(69, 69, 71);
+    margin-top: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.stress{
+    font-size: xx-small;
+}
+a{color:red}
+h1{
+    Font-Weight: 600;
+    Font-Size:56px;
+    Color:rgb(41, 41, 44);
+    margin: 100px 450px 25px 450px;
+    Line-Height:60.4px 
+}
+.headers{
+    Font-Size:24px;
+    Line-Height:33.44px;
+    Color:rgb(41, 41, 44);
+    text-decoration: none;
+    margin-left: 360px;
+}
+.headers:hover{color: red;}
+.names,.links,.names2,.links1 {text-decoration: none;}
+.names,.names2{
+    Font-Weight:400;
+    Font-Size:19.8px;
+    Line-Height:29.12px;
+    Color:rgb(206, 45, 45);
+}
+.names{margin-left: 360px;}
+.links,.links1{
+    Font-Size:12.8px;
+    Color:rgb(206, 45, 45);
+    padding: 10px;
+}
+p{
+    margin-left: 360px;
+    margin-right: 400px;
+    font-size:large ;
+}
+.div{
+    margin-left: 550px;
+    line-height: 30px;
+    margin-bottom: 70px;
+    margin-right: 500px;
+    font-size: 19.2px;
+}
+.links1{margin-left: 360px;}
+span{
+    color: rgb(173, 170, 170);
+    font-size:  small;
+}
+.span{
+    color: rgb(206, 45, 45);
+    font-size: larger;
+}
+.top,.material-symbols-outlined{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#first{margin-left: 1000px;}
+#button{
+    border: thin red solid;
+    padding: 5px;
+    background-color: rgb(217, 16, 16);
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 3px;
+    margin-left: 40px;
+}
+.top:hover{color: rgb(206, 45, 45);}
+a img{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+
+
+
